@@ -1,1 +1,1 @@
-console.log('It\'s Rust');
+console.log('It\'s Assembly');
