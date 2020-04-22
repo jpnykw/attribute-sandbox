@@ -1,2 +1,2 @@
-*.js linguist-language=Rust
+*.js linguist-language=Assembly
 *.rs linguist-language=C
