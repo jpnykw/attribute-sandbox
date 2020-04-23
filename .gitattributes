@@ -1,3 +1,4 @@
 *.js linguist-language=Assembly
 *.rs linguist-language=C
 *.py linguist-language=Go
+src/* linguist-vendored
