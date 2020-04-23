@@ -1,3 +1,3 @@
 object HelloWorld extends App {
-  println("ignore scala")
+  println("ignore")
 }
